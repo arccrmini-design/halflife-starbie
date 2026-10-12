@@ -14,11 +14,10 @@
 | --- | --- | --- | --- | --- | --- |
 | [Display](https://www.amazon.com/UCTRONICS-SSD1306-Self-Luminous-Display-Raspberry/dp/B072Q2X2LL?sr=8-8) | displaying the stuff the starbie outputs | 1 | $6.99 | $6.99 | [Amazon](https://www.amazon.com/UCTRONICS-SSD1306-Self-Luminous-Display-Raspberry/dp/B072Q2X2LL?sr=8-8) |
 | [10k Resistor](https://www.amazon.com/California-JOS-Carbon-Resistor-Tolerance/dp/B0BR68QQPF?sr=8-3) | its a resistor for the starbie | 1 | $3.99 | $3.99 | [Amazon](https://www.amazon.com/California-JOS-Carbon-Resistor-Tolerance/dp/B0BR68QQPF?sr=8-3) |
-| [SW_Push](https://www.amazon.com/gp/product/B0DSHTPSL3?smid=A312FTM4NK43YJ&psc=1) | interacting with the starbie | 1 | $4.79 | $4.79 | [Amazon](https://www.amazon.com/gp/product/B0DSHTPSL3?smid=A312FTM4NK43YJ&psc=1) |
 | [DHT11](https://www.amazon.com/gp/product/B07WT2HJ4F?smid=A2Z10KY0342329&psc=1) | temp and humidity sensor | 1 | $5.99 | $5.99 | [Amazon](https://www.amazon.com/gp/product/B07WT2HJ4F?smid=A2Z10KY0342329&psc=1) |
 | [XIAO-ESP32-C3-SMD](https://www.amazon.com/gp/product/B0B94JZ2YF?smid=A1YP59NGBNBZUR) | execute the code for the starbie | 1 | $9.90 | $9.90 | [Amazon](https://www.amazon.com/gp/product/B0B94JZ2YF?smid=A1YP59NGBNBZUR) |
-| **Parts subtotal** | — | — | — | **$31.66** | — |
+| **Parts subtotal** | — | — | — | **$26.87** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$31.66** | — |
+| **Total** | — | — | — | **$26.87** | — |
 
-**$1.66 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$3.13 left of the tier's funding.
