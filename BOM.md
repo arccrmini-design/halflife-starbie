@@ -17,7 +17,7 @@
 | [DHT11](https://www.amazon.com/gp/product/B07WT2HJ4F?smid=A2Z10KY0342329&psc=1) | temp and humidity sensor | 1 | $5.99 | $5.99 | [Amazon](https://www.amazon.com/gp/product/B07WT2HJ4F?smid=A2Z10KY0342329&psc=1) |
 | [XIAO-ESP32-C3-SMD](https://www.amazon.com/gp/product/B0B94JZ2YF?smid=A1YP59NGBNBZUR) | execute the code for the starbie | 1 | $9.90 | $9.90 | [Amazon](https://www.amazon.com/gp/product/B0B94JZ2YF?smid=A1YP59NGBNBZUR) |
 | **Parts subtotal** | — | — | — | **$26.87** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$26.87** | — |
+| **Tax & shipping** | — | — | — | **$2.39** | — |
+| **Total** | — | — | — | **$29.26** | — |
 
-$3.13 left of the tier's funding.
+$0.74 left of the tier's funding.
