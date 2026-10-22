@@ -14,3 +14,16 @@ Since the Starbie uses mainly SMD components, assembly should be pretty simple. 
 
 ### Flashing
 Flashing should be pretty simple. While holding down the "boot" button, plug the ESP32 into your computer. You can then select the ESP32 in Arduino IDE, make sure you have your code loaded, and then press upload to flash the ESP32. 
+
+## BOM
+## Bill of Materials (BOM)
+
+| Item | Qty | Supplier | Cost/Item | Total Cost | Link |
+|---|---:|---|---:|---:|---|
+| Display | 1 | Amazon | $6.99 | $6.99 | [Amazon](https://www.amazon.com/UCTRONICS-SSD1306-Self-Luminous-Display-Raspberry/dp/B072Q2X2LL?sr=8-8) |
+| 10k Resistor | 1 | Amazon | $3.99 | $3.99 | [Amazon](https://www.amazon.com/California-JOS-Carbon-Resistor-Tolerance/dp/B0BR68QQPF?sr=8-3) |
+| DHT11 | 1 | Amazon | $5.99 | $5.99 | [Amazon](https://www.amazon.com/gp/product/B07WT2HJ4F?smid=A2Z10KY0342329&psc=1) |
+| XIAO-ESP32-C3-SMD | 1 | Amazon | $9.90 | $9.90 | [Amazon](https://www.amazon.com/gp/product/B0B94JZ2YF?smid=A1YP59NGBNBZUR) |
+| PCB | 1 | JLCPCB | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
+| Estimated Shipping | 1 | — | $10.97 | $10.97 | — |
+| **Grand Total** | | | | **$41.84** | |
