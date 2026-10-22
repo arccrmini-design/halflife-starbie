@@ -7,6 +7,7 @@ As an aspiring engineer, I have had no experience with PCB design, so I chose to
 
 ## PCB Design
 Frankly, I followed the guide, but I did have some trouble (as documented in my journal) with certain parts. To design it, I used KiCAD, which is something I hadn't used before. First you have to make a schematic of your PCB, which shows what is routed to what. Then, using that schematic, KiCAD helps you design the PCB itself. Something that I struggled with was making the ground plane, but that was just because of a silly mistake that I made.
+
 <img width="730" height="684" alt="Screenshot 2026-10-06 222959" src="https://github.com/user-attachments/assets/bb1e221f-19f0-4aac-a5b8-7ae91db876fa" />
 
 ## How to Build Starbie
